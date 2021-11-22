@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdSrvrHost
+build_property.ProjectDir = C:\Users\APlenos\Documents\GitHub\aspnetcore-ef-identityserver4\IdSrvrHost\
